@@ -1,0 +1,14 @@
+img {
+    width: 300px;
+}
+
+.orange { 
+    background-color : orange ;   
+}
+.red {
+    background-color : red ;
+}
+li {
+    background-color: yellow;
+    text-align: center;
+}
